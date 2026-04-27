@@ -1,0 +1,11 @@
+[
+  {
+    "team1Name": "Real Madrid",
+    "team2Name": "Barcelona",
+    "team1LogoUrl": "رابط شعار الفريق 1",
+    "team2LogoUrl": "رابط شعار الفريق 2",
+    "matchTime": "21:00",
+    "leagueName": "La Liga",
+    "streamUrl": "رابط البث m3u8"
+  }
+]
